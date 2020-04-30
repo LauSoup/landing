@@ -1,0 +1,8 @@
+.card {
+  padding: 30px;
+  box-shadow: 0px 10px 30px #ffe0ac;
+}
+
+.card img {
+  height: 50px;
+}

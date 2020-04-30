@@ -1,0 +1,16 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  color: #f9f9f9;
+  font-size: 25px;
+}
+
+.banner .container {
+  padding: 90px 40px 30px;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
